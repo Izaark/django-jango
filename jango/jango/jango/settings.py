@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'Perros',
     'Gatos',
     'Sites',
+    'Planetas',
 ]
 
 MIDDLEWARE_CLASSES = [
